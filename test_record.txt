@@ -1,0 +1,60 @@
+ID   AJ002286; SV 1; linear; genomic DNA; STD; HUM; 633 BP.
+XX
+AC   AJ002286;
+XX
+DT   24-JUL-1998 (Rel. 56, Created)
+DT   14-NOV-2006 (Rel. 89, Last updated, Version 4)
+XX
+DE   Homo sapien CD44 gene, intron 18
+XX
+KW   CD44 gene.
+XX
+OS   Homo sapiens (human)
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+XX
+RN   [1]
+RP   1-633
+RA   Goodison S.;
+RT   ;
+RL   Submitted (24-OCT-1997) to the INSDC.
+RL   Goodison S., UCSD Cancer Center, University of California, San Diego , 9500
+RL   Gilman Drive, La Jolla, California 92093-0684, USA.
+XX
+RN   [3]
+RX   DOI; 10.1023/A:1006068305454.
+RX   PUBMED; 9869419.
+RA   Lazarova G.I., Kubota T., Frances S., Peters J.L., Hughes M.J.,
+RA   Brandstaedter J., Szell M., Matsui M., Kendrick R.E.,
+RA   Cordonnier-Pratt M.M., Pratt L.H.;
+RT   "Characterization of tomato PHYB1 and identification of molecular defects
+RT   in four mutant alleles";
+RL   Plant Mol. Biol. 38(6):1137-1146(1998).
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..633
+FT                   /organism="Homo sapiens"
+FT                   /chromosome="11"
+FT                   /map="PM67"
+FT                   /mol_type="genomic DNA"
+FT                   /db_xref="taxon:9606"
+FT   intron          1..633
+FT                   /gene="CD44"
+FT                   /function="adhesion molecule"
+FT                   /number=18
+XX
+SQ   Sequence 633 BP; 151 A; 124 C; 139 G; 219 T; 0 other;
+     gtaaggggct gtcctggggg ctttcaactt ggaagggcat catttaaacc tgggctttat        60
+     atccttgctg ctcagagcgt agtcctggaa ccagcagcct ggtacctgga gttgtgaatg       120
+     cacaactcag acccaacccc agacctccta tggcagagtc tgcatcttaa caagtttcca       180
+     gggattcatg tgcatggtgc agcttaagac atctttctct gccccggttt ttagagacag       240
+     gagacacctg tgattgtttg gctcatcact tttaggtagt ggttgaatcc tttgtgattt       300
+     tacatgtttt ttagggttaa acctcatgca gactctgtct gatgaagtta tgaagtatct       360
+     caccaggaag gcacacaaaa gtatatactc attcattgat ttgttaaata tttattaaat       420
+     acattcacaa tgcacaaata tcgtataaag attcagtgat tcatcatccc ctgtagcctc       480
+     tctgaggccc agggaacctt taagaacttt taccagaagg aagtattggc cttgtgcttt       540
+     tgtttgtcgt ttgtgttttt tattggcctt gtgcttttgt gtgttgtttg gtttttgtaa       600
+     tgatatcatt ttctattttc tgggaaactg tag                                    633
+//
