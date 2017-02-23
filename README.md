@@ -3,7 +3,7 @@
 Reads an EMBL record and extracts the ID, taxonomic classifications, DNA seqeunce.
 Searches for presence of the Shine Dalgarno seqeunce 'aggaggu'
 
-Command line usage from one directory level above src folder
+Command line usage from one directory level above `emblexplorer` folder
 
 Compile using:
 
